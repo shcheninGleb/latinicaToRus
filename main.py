@@ -1,10 +1,19 @@
 import os
 
 dictionary = {
-    'А': 'X',
-    'В': 'Y',
-    'С': 'Z'
+    'А': 'A',
+    'В': 'B',
+    'С': 'C',
+    'Е': 'E',
+    'К': 'K',
+    'Н': 'H',
+    'М': 'M',
+    'О': 'O',
+    'Р': 'P',
+    'Т': 'T',
+    'У': 'Y'
 }
+
 
 path = '/Users/romanlaptev/Desktop/testlatinic/'
 
